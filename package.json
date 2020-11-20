@@ -9,6 +9,7 @@
   "author": "Sergio Ruy",
   "license": "MIT",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
     "node-sass": "^5.0.0"
   }
 }
