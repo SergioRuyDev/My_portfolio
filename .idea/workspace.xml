@@ -19,16 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb1781a-06d1-4c45-a077-bbbeec28a36e" name="Default Changelist" comment="Main page almost done.">
-      <change afterPath="$PROJECT_DIR$/dist/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_menu.scss" afterDir="false" />
+    <list default="true" id="adb1781a-06d1-4c45-a077-bbbeec28a36e" name="Default Changelist" comment="Starting a menu page.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/main.scss.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/main.scss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/main.scss.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_menu.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +84,10 @@
       <workItem from="1605873358056" duration="5918000" />
       <workItem from="1606128661408" duration="1147000" />
       <workItem from="1606129820331" duration="9152000" />
-      <workItem from="1606138985060" duration="988000" />
+      <workItem from="1606138985060" duration="1038000" />
+      <workItem from="1606140232200" duration="1182000" />
+      <workItem from="1606148030469" duration="5000" />
+      <workItem from="1606148346893" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="Just start to build the home page.&#10;Setup Sass and Font awesome.">
       <created>1605879185037</created>
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606135588433</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Starting a menu page.">
+      <created>1606139998750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606139998750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +132,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Just start to build the home page.&#10;Setup Sass and Font awesome." />
     <MESSAGE value="Main page almost done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Main page almost done." />
+    <MESSAGE value="Starting a menu page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting a menu page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="83" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606130361868">
@@ -150,9 +156,9 @@
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="178" y="359" key="SettingsEditor/0.25.2560.1415@0.25.2560.1415" timestamp="1606136573307" />
-    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1606135590407">
+    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1606140002291">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2/0.25.2560.1415@0.25.2560.1415" timestamp="1606135590407" />
+    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2/0.25.2560.1415@0.25.2560.1415" timestamp="1606140002291" />
   </component>
 </project>

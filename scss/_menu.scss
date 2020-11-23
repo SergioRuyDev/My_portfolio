@@ -1,7 +1,5 @@
-// Menu Button
 @import 'config';
-
-
+// Menu Button
 .menu-btn {
   position: absolute;
   z-index: 3;
@@ -18,4 +16,3 @@
     @include easeOut;
   }
 }
-
