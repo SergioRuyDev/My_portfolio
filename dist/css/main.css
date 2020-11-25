@@ -23,7 +23,8 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: fixed;
+    background: url(../img/ImageBack.jpg);
+    background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
       content: '';
@@ -33,7 +34,7 @@ body {
       width: 100%;
       height: 100%;
       z-index: -1;
-      background: rgba(68, 68, 68, 0.9); }
+      background: rgba(68, 68, 68, 0.7); }
 
 /* Heading */
 h1,
@@ -50,7 +51,7 @@ h3 {
   h3.sm-heading {
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
-    background: rgba(68, 68, 68, 0.5); }
+    background: rgba(68, 68, 68, 0.3); }
 
 a {
   color: #fff;
