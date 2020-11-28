@@ -19,10 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb1781a-06d1-4c45-a077-bbbeec28a36e" name="Default Changelist" comment="Overlay done.">
-      <change afterPath="$PROJECT_DIR$/scss/_mobile.scss" afterDir="false" />
+    <list default="true" id="adb1781a-06d1-4c45-a077-bbbeec28a36e" name="Default Changelist" comment="Responsivity done.">
+      <change afterPath="$PROJECT_DIR$/dist/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mobile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_mobile.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +37,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="Sass File" />
         <option value="SCSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,6 +78,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,7 +99,7 @@
       <workItem from="1606148030469" duration="5000" />
       <workItem from="1606148346893" duration="1388000" />
       <workItem from="1606298716344" duration="5485000" />
-      <workItem from="1606557166973" duration="4313000" />
+      <workItem from="1606557166973" duration="9829000" />
     </task>
     <task id="LOCAL-00001" summary="Just start to build the home page.&#10;Setup Sass and Font awesome.">
       <created>1605879185037</created>
@@ -141,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606560122731</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Responsivity done.">
+      <created>1606561499394</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606561499394</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +183,8 @@
     <MESSAGE value="Home page done, menu page on progress." />
     <MESSAGE value="Menu button rotate and JS done." />
     <MESSAGE value="Overlay done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Overlay done." />
+    <MESSAGE value="Responsivity done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Responsivity done." />
   </component>
   <component name="WindowStateProjectService">
     <state x="83" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606130361868">
@@ -190,9 +207,9 @@
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="178" y="359" key="SettingsEditor/0.25.2560.1415@0.25.2560.1415" timestamp="1606136573307" />
-    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1606560125311">
+    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1606561500903">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2/0.25.2560.1415@0.25.2560.1415" timestamp="1606560125311" />
+    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2/0.25.2560.1415@0.25.2560.1415" timestamp="1606561500903" />
   </component>
 </project>
