@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb1781a-06d1-4c45-a077-bbbeec28a36e" name="Default Changelist" comment="Fix some issues.">
+    <list default="true" id="adb1781a-06d1-4c45-a077-bbbeec28a36e" name="Default Changelist" comment="Custom the Bio and Experience.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/projects/project5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,8 @@
       <workItem from="1606805946466" duration="9097000" />
       <workItem from="1606888698016" duration="8951000" />
       <workItem from="1606975358847" duration="4386000" />
-      <workItem from="1606979790351" duration="3620000" />
+      <workItem from="1606979790351" duration="3674000" />
+      <workItem from="1606984316736" duration="1370000" />
     </task>
     <task id="LOCAL-00001" summary="Just start to build the home page.&#10;Setup Sass and Font awesome.">
       <created>1605879185037</created>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606979904510</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Custom the Bio and Experience.">
+      <created>1606983441225</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606983441225</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +239,8 @@
     <MESSAGE value="Initial website finish." />
     <MESSAGE value="Customizing before deploy." />
     <MESSAGE value="Fix some issues." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix some issues." />
+    <MESSAGE value="Custom the Bio and Experience." />
+    <option name="LAST_COMMIT_MESSAGE" value="Custom the Bio and Experience." />
   </component>
   <component name="WindowStateProjectService">
     <state x="83" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606130361868">
@@ -259,9 +267,9 @@
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="178" y="359" key="SettingsEditor/0.25.2560.1415@0.25.2560.1415" timestamp="1606136573307" />
-    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1606979906739">
+    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1606983442719">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2/0.25.2560.1415@0.25.2560.1415" timestamp="1606979906739" />
+    <state x="230" y="468" width="800" height="526" key="Vcs.Push.Dialog.v2/0.25.2560.1415@0.25.2560.1415" timestamp="1606983442719" />
   </component>
 </project>
